@@ -5,6 +5,16 @@
     padding: 10px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.014)
 }
+.card-container{
+    display: flex;
+
+}
+button{
+    background-color: aqua;
+}
+.card-section{
+    display: flex;
+}
 .card h3{
     font-size: 1.25em;
     font-weight: 700px;
